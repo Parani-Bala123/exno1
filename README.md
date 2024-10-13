@@ -1,3 +1,4 @@
+[exp no1.pdf](https://github.com/user-attachments/files/17356553/exp.no1.pdf)
 # Exno:1
 Data Cleaning Process
 
