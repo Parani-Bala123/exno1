@@ -1,4 +1,3 @@
-[exp no1.pdf](https://github.com/user-attachments/files/17356553/exp.no1.pdf)
 # Exno:1
 Data Cleaning Process
 
@@ -22,7 +21,9 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
-# Result[exp no1.pdf](https://github.com/user-attachments/files/17359048/exp.no1.pdf)
+           ![{3B7A090D-1750-4BD1-922C-A7CE66041DED}](https://github.com/user-attachments/assets/946748b4-5aee-44b2-b3d7-0be070e53c3d)
+ <<include your coding and its corresspo[exp no1.pdf](https://github.com/user-attachments/files/17359085/exp.no1.pdf)
+nding output screen shots here>>
+# Result
 
           <<include your Result here>>
